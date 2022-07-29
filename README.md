@@ -24,6 +24,9 @@ I made this simple app by aiming to improve my mobile app development skills wit
 ## Screenshots and GIFs
 WIP
 
+## How it works?
+WIP
+
 
 [issues-shield]: https://img.shields.io/github/issues/F1NH4WK/RandomImageApp.svg?style=for-the-badge
 [issues-url]: https://github.com/F1NH4WK/RandomImageApp/issues
