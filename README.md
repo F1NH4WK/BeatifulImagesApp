@@ -30,7 +30,12 @@ I created a **state** which receives an array with random numbers between 0 and 
 
 To make the images appear whenever the user get in the end of Flatlist is in following code:
 ```js
-const a = 2
+<FlatList
+ renderItem={(item) => generateImage(item.item)}
+ data = {image}
+ onEndReached = {() => setImage([...image, Math.random() * 500])}
+ showsVerticalScrollIndicator = {false}>
+/>
 ```
 
 
