@@ -25,7 +25,13 @@ I made this simple app by aiming to improve my mobile app development skills wit
 WIP
 
 ## How it works?
-WIP
+By using <a href = "https://picsum.photos">**Lorem Picsum**</a> API to provide the images, the process become easy.
+I created a **state** which receives an array with random numbers between 0 and 500, these are used in **Lorem Picsum**'s url to generate random images.
+
+To make the images appear whenever the user get in the end of Flatlist is in following code:
+```js
+const a = 2
+```
 
 
 [issues-shield]: https://img.shields.io/github/issues/F1NH4WK/RandomImageApp.svg?style=for-the-badge
