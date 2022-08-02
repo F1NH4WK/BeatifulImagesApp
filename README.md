@@ -22,7 +22,7 @@ An app that displays a bounch of random images as long as you scroll down.<br />
 I made this simple app by aiming to improve my mobile app development skills with React Native.
 
 ## Screenshots and GIFs
-WIP
+![](https://giphy.com/gifs/MRucvAKcCONhIER65L)
 
 ## How it works?
 By using <a href = "https://picsum.photos">**Lorem Picsum**</a> API to provide the images, the process become easy.
