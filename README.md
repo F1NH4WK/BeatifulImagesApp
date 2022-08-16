@@ -25,7 +25,7 @@ I made this simple app by aiming to improve my mobile app development skills wit
 ![](https://media.giphy.com/media/MRucvAKcCONhIER65L/giphy.gif)
 
 ## How it works?
-By using <a href = "https://picsum.photos">**Lorem Picsum**</a> API to provide the images, the process become easy.
+By using <a href = "https://picsum.photos">**Lorem Picsum**</a> API to provide the images, the process become easy. (This project was supposed has an upgrade, but my git files got corrupted)
 
 I created a **state** which receives an array with random numbers between 0 and 500, these are used in **Lorem Picsum**'s url to generate random images.
 You can find it in <a href = "App.js">**App.js**</a>, exactly as here:
